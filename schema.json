@@ -1,0 +1,45 @@
+{
+    "Banco Industrial": {
+    "autenticacion": {
+        "usuario": "",
+        "contraseña": "",
+        "token": ""
+    },
+    "alta_participantes": {},
+    "estados_de_cuenta": {},
+    "gestiones": {},
+    "depositos": [
+        {
+            "moneda_ISO_4217": "GTQ",
+            "codigo_banco": 44,
+            "numero_cuenta": "11223344",
+            "tipo_de_cuenta": 1,
+            "descripcion_corta": "Reembolso Juan",
+            "monto": 140.00
+        },
+        {
+            "moneda_ISO_4217": "GTQ",
+            "codigo_banco": 15,
+            "numero_cuenta": "11223344",
+            "tipo_de_cuenta": 1,
+            "descripcion_corta": "Reembolso Juan",
+            "monto": 140.00
+        },
+        {
+            "moneda_ISO_4217": "GTQ",
+            "codigo_banco": 42,
+            "numero_cuenta": "11223344",
+            "tipo_de_cuenta": 1,
+            "descripcion_corta": "Reembolso Juan",
+            "monto": 140.00
+        },
+        {
+            "moneda_ISO_4217": "GTQ",
+            "codigo_banco": 16,
+            "numero_cuenta": "11223344",
+            "tipo_de_cuenta": 1,
+            "descripcion_corta": "Reembolso Juan",
+            "monto": 150.00
+        }
+    ]
+}
